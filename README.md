@@ -2,7 +2,8 @@
 
 ## Integrantes
 
-- Samuel Felipe Castelblanco
-- Tomas Olaya Diaz
-- Juan Diego Patino Munoz
+- Samuel Felipe Castelblanco -> Scrum Master 
+- Tomas Olaya Diaz -> Desarrollador
+- Juan Diego Patino Munoz -> Desarrollador
+- Gina Sofia Garcia Zapata -> Product Owner
 
