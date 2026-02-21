@@ -1,3 +1,8 @@
-# DOSW_Lab5_SGT
+# DOSW Laboratorio No. 5
 
-# Develop
+## Integrantes
+
+- Samuel Felipe Castelblanco
+- Tomas Olaya Diaz
+- Juan Diego Patino Munoz
+
