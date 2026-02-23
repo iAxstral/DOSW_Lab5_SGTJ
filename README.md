@@ -5,4 +5,5 @@
 - Samuel Felipe Castelblanco
 - Tomas Olaya Diaz
 - Juan Diego Patino Munoz
+- Gina Sofia Garcia 
 
