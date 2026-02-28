@@ -153,4 +153,4 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Descripción** | Como desarrollador frontend, quiero maquetar el panel principal del cliente mostrando el saldo recuperado del backend de forma clara.|
 | **Tareas requisito** | Ninguna |
 
-
+![](../videos/a.mp4)
